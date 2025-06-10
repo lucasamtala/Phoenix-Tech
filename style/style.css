@@ -1,0 +1,221 @@
+*{
+margin:0;
+padding:0;
+box-sizing: border-box;
+}
+body{
+background-color: lightblue;
+line-height:1.6;
+font-family:sans-serif;
+}
+header{
+background-color:aqua;
+padding:20px;
+}
+h1{
+ color:green;
+ text-align:center;
+ font-size:bold;
+}
+p{
+ font-family:blue;
+}
+h2{
+color:purple;
+text-align:center;
+}
+h3{
+color:green;
+text-align:center;
+}
+.logo{
+height:50px;
+width:auto;
+}
+*company name{
+color:maroon
+}
+footer{
+background-color:steelblue;
+padding:20px;
+}
+.logo area{
+display:flex;
+align-item:center;
+gap:10px;
+}
+nav ul{
+list-style-type:none;
+}
+nav ul li{
+display: inline-block;
+margin-left:20px;
+}
+nav ul li{
+color: purple;
+text-decoration:none;
+border-radius:5px
+}
+nav ul li a:hover:{
+background: magenta
+}
+.banner{
+background-color:moccasin;
+text-align:center;
+padding:80px 30px;
+}
+.banner content{
+background-color:Grey;
+padding:40px;
+border-radius:10px;
+}
+.services{
+background-color:pink;
+padding:50px 20px;
+text-align:center;
+}
+.box{
+width:300px;
+display:inline-block;
+margin:10px;
+background-color:white;
+vertical-align:top;
+border-radius:10px;
+box-shadow:0 5px 6px purple;
+}
+.btn{
+background-color:yellow;
+border-radius:5px;
+display:inline-block;
+padding:12px 20px;
+font-weight:bold;
+text-decoration:none;
+color:red;
+}
+.btn:hover{
+background-color:blue;
+}
+.get{
+max-width:600px;
+margin:50px auto;
+background-color:white;
+padding:0 20px;
+border-radius:10px;
+box-shadow:0 0 10px moccasin;
+text-align:left;
+}
+.for label{
+display:block;
+color:purple;
+font-weight:bold;
+margin-top:5px
+}
+.for inputs[type=text],
+.for input[type=text],
+.for textarea{
+width100%;
+padding:10px 12px;
+border:1px solid grey;
+margin-bottom:10px;
+}
+.for inputs[type=text]:focus;
+.for input[type=text]:focus;
+.for textarea:focus{
+border-color:lightcoral;
+outline:none;
+}
+.get h2{
+text-align:center;
+}
+.container{
+background-color:grey;
+padding:50px 20px;
+text-align:center;
+}
+.ct{
+ text-align:center;
+margin:50px;
+padding:20px 30px;
+box-shadow:0 0 50px royalblue;
+}
+.Ig{
+ color:green;
+ text-align:center;
+ font-size:bold;
+}
+.whych{
+ display:flex;
+ gap:20px;
+ justify-content: center;
+ flex-wrap:wrap;
+}
+.why{
+ background:lightskyblue;
+ padding: 40px 20px;
+ border-radius: 10px;
+}
+.why box{
+ background: beige;
+ border-radius: 5px;
+ text-align: center;
+ padding: 20px;
+ box-shadow: 2px 5px 2px lightcoral
+f
+}
+.bc{
+ background: white;
+}
+.offer{
+ text-align:center;
+margin:50px;
+padding:20px 30px;
+box-shadow:0 0 50px royalblue;
+}
+.img{
+ padding: 40px 20px;
+ text-align: center;
+ background-color:darkgrey;
+}
+.img box{
+ background: white;
+ width: 200px;
+ margin:15px;
+ display:inline-block;
+ border-radius: 10px;
+ padding: 15px;
+ box-shadow:0 0 8px lightcoral;
+}
+.list{
+ text-decoration: none;
+}
+.test{
+ background: lightskyblue;
+ padding: 40px 20px;
+ font-family:Algeria;
+}
+.testimon {
+ max-width: 700px;
+ margin: 20px auto;
+ padding: 20px;
+ border-left: 5px solid royalblue;
+ box-shadow: 0 0 6px lightcoral;
+ background-color: lightblue;
+}
+.h4{
+ color: lightblue;
+ text-align:right;
+}
+.jo{
+  text-align:center;
+margin:50px;
+padding:20px 30px;
+box-shadow:0 0 50px royalblue;
+}
+.test h2{
+ font-family: Algeria;
+ font-weight:bold;
+}
+.testimon h4{
+ font-family: Algerians;
+}
+
